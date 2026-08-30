@@ -1,2 +1,2 @@
 # ai-data-science
-Today is a nice day
+I really like github
